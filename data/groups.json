@@ -572,4 +572,15 @@
 	"twitter": "@ministryoftest",
 	"website": "http://www.ministryoftesting.com/training-events/testbash-manchester/",
 	"advertised": "Website, Twitter, etc"
+	
+}, {
+	"name": "Gameopolis",
+	"description": "Greater Manchester Video Game Developers Network",
+	"organiser": "Simon Smith",
+	"email": "gameopolis@thumbfood.com",
+	"where": "Various, Manchester/Salford",
+	"when": "Bi-monthly",
+	"twitter": "@gameopolisMCR",
+	"website": "http://www.gameopolis.org.uk",
+	"advertised": "Website, Twitter, Facebook, etc"
 }]
